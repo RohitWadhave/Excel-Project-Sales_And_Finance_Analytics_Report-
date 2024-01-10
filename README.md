@@ -32,23 +32,23 @@ These customers in-turn sell the hardwares to end-consumer.
  This comparison will reveal growth opportunities, potential market gaps, and areas where we need to adjust our strategies.
 
 ===========================================================================
-### 3. _Top 10 Products by : % increase in their net sales from 2020 to 2021()_
+### 3. _Top 10 Products by : % increase in their net sales from 2020 to 2021(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Top%2010%20Products.pdf)_
 Crafted a dynamic Excel report that identify the top 10 products with the highest % increase in net sales from 2020 to 2021.  
 
 This initiative aims to provide actionable insights into product performance for products with declining sales, addressing product flaws, pricing strategies.
 
 ===========================================================================
-### 4. _Division Level Report()_
+### 4. _Division Level Report(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Division%20Level%20Report.pdf)_
 Generated a dynamic Excel 'Division' report to present the net sales for 2020 and 2021 along with growth %.
 
 ===========================================================================
-### 5. _Top 5 & Bottom 5 Products by : Quantity sold()_
+### 5. _Top 5 & Bottom 5 Products by : Quantity sold(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Top%20and%20Bottom%20products%20-%20QTY.pdf)_
 Crafted a dynamic Excel report that categorically identifies the top and bottom 5 products based on the quantity sold. 
 
 This initiative seeks to enhance our understanding of product sales dynamics, analyze reasons for under-performance and optimize inventory management.
 
 ===========================================================================
-### 6. _New Products in 2021 : Find and track new products introduced in 2021()_
+### 6. _New Products in 2021 : Find and track new products introduced in 2021(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/New%20Products%20-%202021.pdf)_
 Developed a dynamic Excel report that systematically identifies and tracks new products launched in the year 2021. 
 
 This report aims to provide a comprehensive overview of the product portfolio evolution, aiding decision-makers in evaluating the impact of new product launches.
@@ -56,7 +56,7 @@ This report aims to provide a comprehensive overview of the product portfolio ev
 By leveraging our dynamic Excel report, we aim to compare new vs. existing product performance, gain real-time key metrics like sales, profitability for new products
 
 ===========================================================================
-### 7. _Top 5 countries in 2021 by : Net sales()_
+### 7. _Top 5 countries in 2021 by : Net sales(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Top%205%20Countries.pdf)_
 Created a dynamic Excel report that reveals the top 5 countries driving our net sales. 
 
 This interactive tool aims to identify high-growth markets where economy is growing strong and there are lots of potential customers who fit your target audience.
@@ -64,19 +64,19 @@ This interactive tool aims to identify high-growth markets where economy is grow
 
 ## Finance Report :
 
-### 1. a) _[Profit and Loss (P&L) reports by Fiscal Year](https://github.com/gauravmishra7/Excel-Sales_Finance_Analytics/blob/main/P%20and%20L%20Yearly.pdf)_                                                                                                         b) _[Profit and Loss (P&L) reports by Months](https://github.com/gauravmishra7/Excel-Sales_Finance_Analytics/blob/main/P%20and%20L%20Months.pdf)_
+### 1. a) _[Profit and Loss (P&L) reports by Fiscal Year](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Finance%20Reports/P%20%26%20L%20by%20Fiscal%20Year.pdf)_                                                        b) _[Profit and Loss (P&L) reports by Months](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Finance%20Reports/P%20%26%20L%20by%20Months%20-%20Double%20page.pdf)_
 Created dynamic Excel report of yearly and quarterly profit & loss data. 
 
 The analysis aims to provide insights into the company's financial performance by comparing the Profit and Loss trends over the last two years. 
 
 ===========================================================================
-### 2.    _[Profit and Loss (P&L) reports by Markets](https://github.com/gauravmishra7/Excel-Sales_Finance_Analytics/blob/main/P%20and%20L%20Year%20(Markets).pdf)_
+### 2.    _[Profit and Loss (P&L) reports by Markets](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Finance%20Reports/P%20%26%20L%20by%20Markets.pdf)_
 Built a dynamic Excel report that dives deep into market-specific sales, profit, and gross margin (GM%) data. 
 
 This in-depth analysis allows us to study profit & loss data by market and also pinpoint which markets contribute the most to our profitability and identify areas for improvement across different segments.
 
 ===========================================================================
-### 3. Gross Margin (GM)% by Quarter : (GM)% quarterly in various subzones
+### 3. _Gross Margin (GM)% by Quarter : (GM)% quarterly in various subzones(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Finance%20Reports/GM%20%25%20by%20Quarters%20(sub_zone).pdf)_
 Developed a dynamic Excel report for analyzing sub zone-specific gross margin percentages quarterly. 
 
 This aids in pinpointing top-performing and underperforming subzones.   
