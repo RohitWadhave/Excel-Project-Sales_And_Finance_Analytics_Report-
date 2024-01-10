@@ -14,7 +14,7 @@ These customers in-turn sell the hardwares to end-consumer.
 
 ## Sales Report : 
   
-### 1. _[Customer Performance Report](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Report%20-%20Customer%20Net%20Sales%20Performance.pdf)_
+### 1. _[Customer Performance Report]()_
 
  We need a dynamic pivot table for analyzing the sales performance of each of its customers (Retail and e-commerce sites) and their year-over-year growth 2019 to 2021, focusing on net sales figures and % growth. 
  
@@ -23,7 +23,7 @@ These customers in-turn sell the hardwares to end-consumer.
  This will help us our identify top sales performers and identify potential churn risks.
  
 ===========================================================================
-### 2. _[Market Performance vs. Sales Targets Report](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Report%20-%20Market%20Performance%20VS%20Target.pdf)_ 
+### 2. _[Market Performance vs. Sales Targets Report]()_ 
 
  This involves examining country-wise net sales for the years 2019-2021 and aligning them with predefined 2021 net sales targets, corresponding target percentages for given market (country).
 
