@@ -76,7 +76,7 @@ Built a dynamic Excel report that dives deep into market-specific sales, profit,
 This in-depth analysis allows us to study profit & loss data by market and also pinpoint which markets contribute the most to our profitability and identify areas for improvement across different segments.
 
 ===========================================================================
-### 3. _Gross Margin (GM)% by Quarter : (GM)% quarterly in various subzones(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Finance%20Reports/GM%20%25%20by%20Quarters%20(sub_zone).pdf)_
+### 3. _[Gross Margin (GM)% by Quarter : (GM)% quarterly in various subzones](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Finance%20Reports/GM%20%25%20by%20Quarters%20(sub_zone).pdf)_
 Developed a dynamic Excel report for analyzing sub zone-specific gross margin percentages quarterly. 
 
 This aids in pinpointing top-performing and underperforming subzones.   
