@@ -22,7 +22,7 @@ These customers in-turn sell the hardwares to end-consumer.
  
  This will help us our identify top sales performers and identify potential churn risks.
  
-============================================================================================
+===========================================================================
 ### 2. _[Market Performance vs. Sales Targets Report](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Report%20-%20Market%20Performance%20VS%20Target.pdf)_ 
 
  This involves examining country-wise net sales for the years 2019-2021 and aligning them with predefined 2021 net sales targets, corresponding target percentages for given market (country).
@@ -31,23 +31,23 @@ These customers in-turn sell the hardwares to end-consumer.
  
  This comparison will reveal growth opportunities, potential market gaps, and areas where we need to adjust our strategies.
 
-============================================================================================
+===========================================================================
 ### 3. Top 10 Products by : % increase in their net sales from 2020 to 2021.
 Crafted a dynamic Excel report that identify the top 10 products with the highest % increase in net sales from 2020 to 2021.  
 
 This initiative aims to provide actionable insights into product performance for products with declining sales, addressing product flaws, pricing strategies.
 
-============================================================================================
+===========================================================================
 ### 4. Division Level Report
 Generated a dynamic Excel 'Division' report to present the net sales for 2020 and 2021 along with growth %.
 
-============================================================================================
+===========================================================================
 ### 5. Top 5 & Bottom 5 Products by : Quantity sold.
 Crafted a dynamic Excel report that categorically identifies the top and bottom 5 products based on the quantity sold. 
 
 This initiative seeks to enhance our understanding of product sales dynamics, analyze reasons for under-performance and optimize inventory management.
 
-============================================================================================
+===========================================================================
 ### 6. New Products in 2021 : Find and track new products introduced in 2021.
 Developed a dynamic Excel report that systematically identifies and tracks new products launched in the year 2021. 
 
@@ -55,7 +55,7 @@ This report aims to provide a comprehensive overview of the product portfolio ev
 
 By leveraging our dynamic Excel report, we aim to compare new vs. existing product performance, gain real-time key metrics like sales, profitability for new products
 
-============================================================================================
+===========================================================================
 ### 7. Top 5 countries in 2021 by : Net sales
 Created a dynamic Excel report that reveals the top 5 countries driving our net sales. 
 
@@ -69,13 +69,13 @@ Created dynamic Excel report of yearly and quarterly profit & loss data.
 
 The analysis aims to provide insights into the company's financial performance by comparing the Profit and Loss trends over the last two years. 
 
-============================================================================================
+===========================================================================
 ### 2.    _[Profit and Loss (P&L) reports by Markets](https://github.com/gauravmishra7/Excel-Sales_Finance_Analytics/blob/main/P%20and%20L%20Year%20(Markets).pdf)_
 Built a dynamic Excel report that dives deep into market-specific sales, profit, and gross margin (GM%) data. 
 
 This in-depth analysis allows us to study profit & loss data by market and also pinpoint which markets contribute the most to our profitability and identify areas for improvement across different segments.
 
-============================================================================================
+===========================================================================
 ### 3. Gross Margin (GM)% by Quarter : (GM)% quarterly in various subzones
 Developed a dynamic Excel report for analyzing sub zone-specific gross margin percentages quarterly. 
 
