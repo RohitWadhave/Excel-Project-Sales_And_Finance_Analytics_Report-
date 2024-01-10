@@ -32,23 +32,23 @@ These customers in-turn sell the hardwares to end-consumer.
  This comparison will reveal growth opportunities, potential market gaps, and areas where we need to adjust our strategies.
 
 ===========================================================================
-### 3. _Top 10 Products by : % increase in their net sales from 2020 to 2021(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Top%2010%20Products.pdf)_
+### 3. _[Top 10 Products by : % increase in their net sales from 2020 to 2021](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Top%2010%20Products.pdf)_
 Crafted a dynamic Excel report that identify the top 10 products with the highest % increase in net sales from 2020 to 2021.  
 
 This initiative aims to provide actionable insights into product performance for products with declining sales, addressing product flaws, pricing strategies.
 
 ===========================================================================
-### 4. _Division Level Report(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Division%20Level%20Report.pdf)_
+### 4. _[Division Level Report](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Division%20Level%20Report.pdf)_
 Generated a dynamic Excel 'Division' report to present the net sales for 2020 and 2021 along with growth %.
 
 ===========================================================================
-### 5. _Top 5 & Bottom 5 Products by : Quantity sold(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Top%20and%20Bottom%20products%20-%20QTY.pdf)_
+### 5. _[Top 5 & Bottom 5 Products by : Quantity sold](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Top%20and%20Bottom%20products%20-%20QTY.pdf)_
 Crafted a dynamic Excel report that categorically identifies the top and bottom 5 products based on the quantity sold. 
 
 This initiative seeks to enhance our understanding of product sales dynamics, analyze reasons for under-performance and optimize inventory management.
 
 ===========================================================================
-### 6. _New Products in 2021 : Find and track new products introduced in 2021(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/New%20Products%20-%202021.pdf)_
+### 6. _[New Products in 2021 : Find and track new products introduced in 2021](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/New%20Products%20-%202021.pdf)_
 Developed a dynamic Excel report that systematically identifies and tracks new products launched in the year 2021. 
 
 This report aims to provide a comprehensive overview of the product portfolio evolution, aiding decision-makers in evaluating the impact of new product launches.
@@ -56,7 +56,7 @@ This report aims to provide a comprehensive overview of the product portfolio ev
 By leveraging our dynamic Excel report, we aim to compare new vs. existing product performance, gain real-time key metrics like sales, profitability for new products
 
 ===========================================================================
-### 7. _Top 5 countries in 2021 by : Net sales(https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Top%205%20Countries.pdf)_
+### 7. _[Top 5 countries in 2021 by : Net sales](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Business%20Inquiries/Top%205%20Countries.pdf)_
 Created a dynamic Excel report that reveals the top 5 countries driving our net sales. 
 
 This interactive tool aims to identify high-growth markets where economy is growing strong and there are lots of potential customers who fit your target audience.
