@@ -14,7 +14,7 @@ These customers in-turn sell the hardwares to end-consumer.
 
 ## Sales Report : 
   
-### 1. _[Customer Performance Report]()_
+### 1. _[Customer Performance Report](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Customer%20Net%20Sales%20Performance.pdf)_
 
  We need a dynamic pivot table for analyzing the sales performance of each of its customers (Retail and e-commerce sites) and their year-over-year growth 2019 to 2021, focusing on net sales figures and % growth. 
  
@@ -23,7 +23,7 @@ These customers in-turn sell the hardwares to end-consumer.
  This will help us our identify top sales performers and identify potential churn risks.
  
 ===========================================================================
-### 2. _[Market Performance vs. Sales Targets Report]()_ 
+### 2. _[Market Performance vs. Sales Targets Report](https://github.com/RohitWadhave/Excel-Project-Sales_And_Finance_Analytics_Report-/blob/main/Sales%20Reports/Market%20Performance%20VS%20Target.pdf)_ 
 
  This involves examining country-wise net sales for the years 2019-2021 and aligning them with predefined 2021 net sales targets, corresponding target percentages for given market (country).
 
@@ -32,23 +32,23 @@ These customers in-turn sell the hardwares to end-consumer.
  This comparison will reveal growth opportunities, potential market gaps, and areas where we need to adjust our strategies.
 
 ===========================================================================
-### 3. Top 10 Products by : % increase in their net sales from 2020 to 2021.
+### 3. _Top 10 Products by : % increase in their net sales from 2020 to 2021()_
 Crafted a dynamic Excel report that identify the top 10 products with the highest % increase in net sales from 2020 to 2021.  
 
 This initiative aims to provide actionable insights into product performance for products with declining sales, addressing product flaws, pricing strategies.
 
 ===========================================================================
-### 4. Division Level Report
+### 4. _Division Level Report()_
 Generated a dynamic Excel 'Division' report to present the net sales for 2020 and 2021 along with growth %.
 
 ===========================================================================
-### 5. Top 5 & Bottom 5 Products by : Quantity sold.
+### 5. _Top 5 & Bottom 5 Products by : Quantity sold()_
 Crafted a dynamic Excel report that categorically identifies the top and bottom 5 products based on the quantity sold. 
 
 This initiative seeks to enhance our understanding of product sales dynamics, analyze reasons for under-performance and optimize inventory management.
 
 ===========================================================================
-### 6. New Products in 2021 : Find and track new products introduced in 2021.
+### 6. _New Products in 2021 : Find and track new products introduced in 2021()_
 Developed a dynamic Excel report that systematically identifies and tracks new products launched in the year 2021. 
 
 This report aims to provide a comprehensive overview of the product portfolio evolution, aiding decision-makers in evaluating the impact of new product launches.
@@ -56,7 +56,7 @@ This report aims to provide a comprehensive overview of the product portfolio ev
 By leveraging our dynamic Excel report, we aim to compare new vs. existing product performance, gain real-time key metrics like sales, profitability for new products
 
 ===========================================================================
-### 7. Top 5 countries in 2021 by : Net sales
+### 7. _Top 5 countries in 2021 by : Net sales()_
 Created a dynamic Excel report that reveals the top 5 countries driving our net sales. 
 
 This interactive tool aims to identify high-growth markets where economy is growing strong and there are lots of potential customers who fit your target audience.
